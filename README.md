@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajjapushyanth
-- 👀 I’m interested in ..c.
-- 🌱 I’m currently learning .c and python..
+- 👀 I’m interested in ..python,sql,html,css,c,java.
+- 🌱 I’m currently learning .FULL STACK..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
